@@ -6,7 +6,7 @@ A responsive and modern React-based landing page for **SoftSell**, a fictional s
 
 ## 🚀 Live Preview
 
-https://github.com/neerajguleria1/Soft-Sell
+https://github.com/neerajguleria1/SoftSell-Website
 
 ---
 
