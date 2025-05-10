@@ -1,0 +1,25 @@
+.review {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.review-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.review p {
+  margin: 0.3rem 0;
+}
+
+.pronoun {
+  font-size: 0.9rem;
+  color: #666;
+}
