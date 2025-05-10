@@ -58,7 +58,6 @@ Clone the repository and run locally:
 
 ```bash
 git clone https://github.com/neerajguleria1/SoftSell-Website
-cd softsell-website
 npm install
 npm run dev
 **⚠️ Make sure Node.js and npm are installed on your system.
