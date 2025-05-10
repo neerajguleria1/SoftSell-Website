@@ -34,4 +34,33 @@ This single-page application includes the following sections:
 ---
 
 ## 🖼️ Folder Structure
+softsell-website/
+├── public/
+│ └── index.html
+├── src/
+│ ├── assets/
+│ │ └── images/
+│ ├── components/
+│ │ ├── Hero.jsx / Hero.css
+│ │ ├── HowItWorks.jsx / HowItWorks.css
+│ │ ├── Testimonials.jsx / Testimonials.css
+│ │ ├── ContactForm.jsx / ContactForm.css
+│ └── App.jsx
+├── package.json
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🛠️ Installation & Setup
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/yourusername/softsell-website.git
+cd softsell-website
+npm install
+npm run dev
 
